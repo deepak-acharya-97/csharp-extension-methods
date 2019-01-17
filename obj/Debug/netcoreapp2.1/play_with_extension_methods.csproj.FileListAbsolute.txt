@@ -1,0 +1,11 @@
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\bin\Debug\netcoreapp2.1\play_with_extension_methods.deps.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\bin\Debug\netcoreapp2.1\play_with_extension_methods.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\bin\Debug\netcoreapp2.1\play_with_extension_methods.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\bin\Debug\netcoreapp2.1\play_with_extension_methods.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\bin\Debug\netcoreapp2.1\play_with_extension_methods.pdb
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\obj\Debug\netcoreapp2.1\play_with_extension_methods.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\obj\Debug\netcoreapp2.1\play_with_extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\obj\Debug\netcoreapp2.1\play_with_extension_methods.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\obj\Debug\netcoreapp2.1\play_with_extension_methods.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\obj\Debug\netcoreapp2.1\play_with_extension_methods.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_extension_methods\obj\Debug\netcoreapp2.1\play_with_extension_methods.pdb
